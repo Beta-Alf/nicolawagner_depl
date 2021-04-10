@@ -1,0 +1,4 @@
+Sitemap: https://www.nicolawagner.de/sitemapindex.xml
+
+User-Agent: *
+Host: www.nicolawagner.de
